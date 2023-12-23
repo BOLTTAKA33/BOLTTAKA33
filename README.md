@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @BOLTTAKA33
-- 👀 I’m interested in software devlopment 
+- 👋 Hi, I’m @Hitarth modi
+  
+- 👀 I’m interested in software devlopment
+- 
 - 🌱 I’m currently learning B.TECH/CSE
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my mail hitarthmodi655@gmail.com & ronisnoob72@gmail.com
 
